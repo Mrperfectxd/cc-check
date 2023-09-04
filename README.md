@@ -15,7 +15,7 @@ Included with BIN Checker, I use Stripe API as 1 REQ.
 
 ## Info
 Don't forget to give ⭐  
-Last API Scraping: **18th September 2021**  
+Last API Scraping: **1 September 2021**  
 
 ## Screenshots
 ![Checking](https://i.ibb.co/myHK9Dd/swc.png)  
