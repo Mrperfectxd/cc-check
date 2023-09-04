@@ -1,5 +1,5 @@
 # Dᴀxx CC Cʜᴇᴄᴋ
-# Switchblade Checker
+# 
 This checker use 1 REQ methods, so yea it'll limited to check the accurate, but it'll useful when you don't have any checkers.  
 Included with BIN Checker, I use Stripe API as 1 REQ.
   
